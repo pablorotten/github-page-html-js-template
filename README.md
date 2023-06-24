@@ -1,5 +1,7 @@
 # GitHub HTML+JS page template
 
+https://pablorotten.github.io/github-page-html-js-template/
+
 ## Initial setup
 
 1. Fork this project
