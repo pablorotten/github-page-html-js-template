@@ -1,1 +1,2 @@
-# github-page-html-js-template
+# GitHub HTML+JS page template
+
