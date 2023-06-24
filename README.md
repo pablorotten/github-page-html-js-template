@@ -27,3 +27,17 @@ h1 {
 ```js
 console.log("hello world")
 ```
+3. Add a `favicon.ico` to the root
+4. Modify `index.html` to add css, js and favicon
+```html
+  <head>
+   ...
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="shortcut icon" type="image/png" href="favicon.ico">
+    <link rel="apple-touch-icon" href="favicon.ico">
+  </head>
+  <body>
+    ...
+    <script src="js/main.js"></script>
+  </body>
+```
